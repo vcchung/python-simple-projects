@@ -1,0 +1,1 @@
+- referencing https://www.dataquest.io/blog/python-projects-for-beginners/
